@@ -9,7 +9,7 @@ connect with me -[![linkdin](https://content.linkedin.com/content/dam/me/busines
 - 🤔 I’m looking for help with computer vision part.
 - 💬 Ask me about ML,Statastic,learning resources.
 - 📫 How to reach me: you can contact me - trinkeshn@gmail.com
-- ⚡ Fun fact: scratching my brain until get answer.
+- ⚡ Fun fact: I scratch my brain until get answer.
 
 
 I'm also a good chess player-
