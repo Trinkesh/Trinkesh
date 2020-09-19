@@ -1,5 +1,5 @@
-### Hi there, I'm Trinkesh👋
-
+## Hi there, I'm Trinkesh👋
+NLP & DeepLearning engineer.
 
 connect with me -[![linkdin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
