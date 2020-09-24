@@ -14,3 +14,4 @@ connect with me -[![linkdin](https://content.linkedin.com/content/dam/me/busines
 
 I'm also a good chess player-
 [![chess.com](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZA7QOK.png)](https://www.chess.com/member/trinkesh)
+![](https://komarev.com/ghpvc/?username=https://github.com/Trinkesh)
