@@ -1,4 +1,5 @@
 ## Hi there, I'm Trinkesh👋
+NLP&DeepLearning engineer.
 
 connect with me on - [linkedin](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
