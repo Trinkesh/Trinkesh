@@ -2,7 +2,7 @@
 
 connect with me on - [linkdin](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
-[![linkdin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
+[![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
 - 🔭 I’m currently working on - sentiment analysis.
 - 🌱 I’m currently learning - model Deployment into Production and Cloud Architecture.
