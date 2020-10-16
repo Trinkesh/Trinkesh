@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with computer vision part.
 - 💬 Ask me about learning resources
 - 📫 How to reach me: you can contact me - trinkeshn@gmail.com
-- ⚡ Fun fact: I scratch my brain until get answer.
 
 
 I'm also a good chess player-
