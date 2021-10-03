@@ -4,12 +4,7 @@
 
 [![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
-- 🔭 I’m currently working on - sentiment analysis.
-- 🌱 I’m currently learning - model Deployment into Production and Cloud Architecture.
-- 👯 I’m looking to collaborate on - Al healthcare projects.
-- 🤔 I’m looking for help with computer vision part.
-- 💬 Ask me about learning resources
-- 📫 How to reach me: you can contact me - trinkeshn@gmail.com
+- 📫 How to reach me: you can contact me - trinkeshn@gmail.com 
 
 
 I'm also a good chess player-
