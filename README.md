@@ -4,6 +4,8 @@
 
 [![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
+Learning machine Learning model deployment.
+cloud platforms 
 - 📫 How to reach me: you can contact me - trinkeshn@gmail.com 
 
 
