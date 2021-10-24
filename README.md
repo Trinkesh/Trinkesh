@@ -1,11 +1,14 @@
 # Hi there, I'm Trinkesh👋
 
-## connect with me on - [linkedin](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
+## Let's Connect - [linkedin](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
 [![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
 - 📫 How to reach me: you can contact me - trinkeshn@gmail.com 
-- learning BI Tools, AWS, Advanced SQl.
+
+- I'M learning BI Tools, AWS, Advanced SQl.
+
+- I'm Good with Numbers, data, Analysis I have love for Natural Language Processing field.
 
 
 I'm also a Rated chess player-
