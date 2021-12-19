@@ -6,9 +6,9 @@
 
 - 📫 How to reach me: you can contact me - trinkeshn@gmail.com 
 
-- I'M learning BI Tools, AWS, Advanced SQl.
+- I'M learning BI Tools, AWS, azur, Advanced SQl, alexa tool kit.
 
-- I'm Good with Numbers, data, Analysis I have love for Natural Language Processing field.
+- I'm Good with Numbers, data, Analysis I have love for Natural Language Processing field and wanted to do researchwork in same fieeld in future.
 
 
 I'm also a Rated chess player-
