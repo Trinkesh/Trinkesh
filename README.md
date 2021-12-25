@@ -20,6 +20,6 @@ I'm also a Rated chess player-
 
 <a href="https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCO7pDnW7IDxFigi34vg5jhw"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://medium.com/@tnimsarkar"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-1024.png" /></a>
+<a href="https://medium.com/@tnimsarkar"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fmedium-logo%2F&psig=AOvVaw26tzKXmdX_-OG8CsVP2uSb&ust=1640480616866000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjKwtrg_fQCFQAAAAAdAAAAABAJ" /></a>
 
 <a href="https://twitter.com/Trinkeshpn"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
