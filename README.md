@@ -1,4 +1,4 @@
-# Hi there, I'm Trinkesh👋
+# Hi there, I'm Trinkesh Working as an Jr. Data Analyst @ Konverge.ai 👋
 
 ## Let's Connect - [linkedin](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
@@ -6,14 +6,10 @@
 
 - 📫 How to reach me: you can contact me - trinkeshn@gmail.com 
 
-- I'M learning BI Tools, AWS, azur, Advanced SQl, alexa tool kit.
+- I'M learning BI Tools, Azur, Advanced SQl, alexa tool kit.
 
-- I'm Good with Numbers, data, Analysis I have love for Natural Language Processing field and wanted to do researchwork in same fieeld in future.
+- I'm Good with Numbers, Dashboards Creation, Design I have love for Natural Language Processing field and wanted to do Research Work in same field in future.
 
-
-I'm also a Rated chess player-
-[![chess.com](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZA7QOK.png)](https://www.chess.com/member/trinkesh)
-![](https://komarev.com/ghpvc/?username=Trinkesh)
 
 
 <img align='center' src="https://i.pinimg.com/564x/f9/55/3e/f9553e3ccadbc4ca847b12cd2b8cef2d.jpg" width="230" />
