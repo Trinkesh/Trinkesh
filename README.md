@@ -1,4 +1,4 @@
-# Hi there, I'm Trinkesh Working as an Jr. Data Analyst @ Konverge.Ai 👋
+# Hi there, I'm Trinkesh Working as an Jr. Data Analyst @ Konverge.AI 👋
 
 ## Let's Connect - [linkedin](https://www.linkedin.com/in/trinkesh-nimsarkar-8165791b0/)
 
