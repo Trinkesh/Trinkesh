@@ -10,6 +10,9 @@
 
 - I'm Good with Numbers, Dashboards Creation, Design I have love for Natural Language Processing field and wanted to do Research Work in same field in future.
 
+![PL-300](https://img.shields.io/badge/Microsoft%20PL--300-Certified-blue)
+
+
 
 
 <img align='center' src="https://i.pinimg.com/564x/f9/55/3e/f9553e3ccadbc4ca847b12cd2b8cef2d.jpg" width="230" />
@@ -18,3 +21,4 @@
 <a href="https://www.youtube.com/channel/UCO7pDnW7IDxFigi34vg5jhw"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
 
 <a href="https://twitter.com/Trinkeshpn"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+
